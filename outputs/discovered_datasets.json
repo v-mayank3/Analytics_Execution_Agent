@@ -1,0 +1,62 @@
+{
+  "source_directory": "source",
+  "discovered_files": [
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Apr2026.csv",
+      "extension": "csv",
+      "size": 42,
+      "modified_date": "2026-07-01T17:54:27"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Feb2026.csv",
+      "extension": "csv",
+      "size": 62,
+      "modified_date": "2026-07-01T16:15:47"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "size": 62,
+      "modified_date": "2026-07-01T17:54:04"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jun2026.csv",
+      "extension": "csv",
+      "size": 52,
+      "modified_date": "2026-07-01T18:19:39"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Mar2026.csv",
+      "extension": "csv",
+      "size": 62,
+      "modified_date": "2026-07-01T16:56:53"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "May2026.csv",
+      "extension": "csv",
+      "size": 32,
+      "modified_date": "2026-07-01T18:18:46"
+    },
+    {
+      "dataset_name": "Mobile",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "size": 91,
+      "modified_date": "2026-07-01T15:44:35"
+    },
+    {
+      "dataset_name": "Solar",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "size": 49,
+      "modified_date": "2026-07-01T18:20:51"
+    }
+  ],
+  "total_files": 8
+}

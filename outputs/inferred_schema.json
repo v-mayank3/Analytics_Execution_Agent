@@ -1,0 +1,163 @@
+{
+  "source_discovery_file": "C:\\Users\\v-mayank7\\OneDrive - Microsoft\\Desktop\\Analytics_Execution_Agent\\outputs\\discovered_datasets.json",
+  "generated_at": "2026-07-01T19:50:48",
+  "files": [
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Apr2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "Units",
+          "data_type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Feb2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "Units",
+          "data_type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "Units",
+          "data_type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jun2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "Units",
+          "data_type": "DECIMAL"
+        },
+        {
+          "name": "Region",
+          "data_type": "STRING"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Mar2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "Units",
+          "data_type": "INTEGER"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "May2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Mobile",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "DeviceID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "UsageMB",
+          "data_type": "DECIMAL"
+        },
+        {
+          "name": "Region",
+          "data_type": "STRING"
+        }
+      ]
+    },
+    {
+      "dataset_name": "Solar",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME"
+        },
+        {
+          "name": "PlantID",
+          "data_type": "STRING"
+        },
+        {
+          "name": "Generation",
+          "data_type": "INTEGER"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

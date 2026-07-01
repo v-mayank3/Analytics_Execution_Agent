@@ -1,0 +1,70 @@
+{
+  "source_directory": "source",
+  "discovered_files": [
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Apr2026.csv",
+      "extension": "csv",
+      "size": 42,
+      "modified_date": "2026-07-01T17:54:27",
+      "sha256_hash": "a58db1139ba0cf9b7a60a65cf457fd821dbcc3a7386b62099567da7913a51868"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Feb2026.csv",
+      "extension": "csv",
+      "size": 62,
+      "modified_date": "2026-07-01T16:15:47",
+      "sha256_hash": "c39f4208e70ab280c6497f23095d235c55d96708fc868ab6c7f5769e641c85a1"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "size": 62,
+      "modified_date": "2026-07-01T17:54:04",
+      "sha256_hash": "d582034659ce480a6b94c88074d1f6ccbc1c326dcb93e2def9d4506284430b3e"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jun2026.csv",
+      "extension": "csv",
+      "size": 52,
+      "modified_date": "2026-07-01T18:19:39",
+      "sha256_hash": "35f7848685a1f1b8e10ed8c85e55573243dc541424faf14f026fac5230e9d053"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Mar2026.csv",
+      "extension": "csv",
+      "size": 62,
+      "modified_date": "2026-07-01T16:56:53",
+      "sha256_hash": "c39f4208e70ab280c6497f23095d235c55d96708fc868ab6c7f5769e641c85a1"
+    },
+    {
+      "dataset_name": "Electricity",
+      "file_name": "May2026.csv",
+      "extension": "csv",
+      "size": 32,
+      "modified_date": "2026-07-01T18:18:46",
+      "sha256_hash": "e16a7baecc7bbef2120954af54f86e32cdbe040d2e38555a6c15e9296a36911a"
+    },
+    {
+      "dataset_name": "Mobile",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "size": 91,
+      "modified_date": "2026-07-01T15:44:35",
+      "sha256_hash": "9c6f9bd2e649711f144f126f3023ffc260f058407558dcbea158eb3c5ecb046f"
+    },
+    {
+      "dataset_name": "Solar",
+      "file_name": "Jan2026.csv",
+      "extension": "csv",
+      "size": 49,
+      "modified_date": "2026-07-01T18:20:51",
+      "sha256_hash": "5f02675e68aacdd19991f423a7a29bd9aca9079a3d3a978b4c91ff7a76e659f6"
+    }
+  ],
+  "total_files": 8
+}

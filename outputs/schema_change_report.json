@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-07-01T19:50:48",
+  "status": "no_changes",
+  "processed_files": [
+    {
+      "dataset_name": "Mobile",
+      "file_name": "Jan2026.csv"
+    }
+  ],
+  "changes": [],
+  "summary": {
+    "files_checked": 1,
+    "files_with_changes": 0,
+    "extra_column_count": 0,
+    "missing_column_count": 0,
+    "data_type_change_count": 0
+  }
+}

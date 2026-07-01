@@ -1,0 +1,11 @@
+{
+  "action": "NO_ACTION",
+  "human_approval": false,
+  "reason": "No new datasets, files, or schema changes were detected.",
+  "summary": {
+    "new_dataset_count": 0,
+    "new_file_count": 0,
+    "modified_file_count": 0,
+    "schema_change_count": 0
+  }
+}

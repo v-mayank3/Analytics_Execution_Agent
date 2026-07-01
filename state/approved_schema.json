@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-07-01T00:00:00",
+  "schemas": [
+    {
+      "dataset_name": "Electricity",
+      "bronze_table": "electricity_interval",
+      "approval_status": "Approved",
+      "approved_by": "Human",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME",
+          "nullable": false
+        },
+        {
+          "name": "SiteID",
+          "data_type": "STRING",
+          "nullable": false
+        },
+        {
+          "name": "Units",
+          "data_type": "INTEGER",
+          "nullable": true
+        }
+      ]
+    },
+    {
+      "dataset_name": "Mobile",
+      "bronze_table": "mobile",
+      "approval_status": "Approved",
+      "approved_by": "Human",
+      "columns": [
+        {
+          "name": "Timestamp",
+          "data_type": "DATETIME",
+          "nullable": false
+        },
+        {
+          "name": "DeviceID",
+          "data_type": "STRING",
+          "nullable": false
+        },
+        {
+          "name": "UsageMB",
+          "data_type": "DECIMAL",
+          "nullable": true
+        },
+        {
+          "name": "Region",
+          "data_type": "STRING",
+          "nullable": true
+        }
+      ]
+    }
+  ]
+}
