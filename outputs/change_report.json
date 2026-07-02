@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-01T19:56:17",
-  "status": "no_changes",
+  "generated_at": "2026-07-01T20:15:34",
+  "status": "changes_detected",
   "new_datasets": [],
-  "new_files": [],
+  "new_files": [
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jun2026.csv",
+      "extension": "csv",
+      "size": 52,
+      "modified_date": "2026-07-01T18:19:39",
+      "sha256_hash": "35f7848685a1f1b8e10ed8c85e55573243dc541424faf14f026fac5230e9d053"
+    }
+  ],
   "deleted_files": [],
   "modified_files": [],
   "summary": {
     "new_dataset_count": 0,
-    "new_file_count": 0,
+    "new_file_count": 1,
     "deleted_file_count": 0,
     "modified_file_count": 0
   }

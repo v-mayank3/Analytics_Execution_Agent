@@ -1,18 +1,38 @@
 {
-  "generated_at": "2026-07-01T19:50:48",
-  "status": "no_changes",
+  "generated_at": "2026-07-01T20:15:34",
+  "status": "changes_detected",
   "processed_files": [
     {
-      "dataset_name": "Mobile",
-      "file_name": "Jan2026.csv"
+      "dataset_name": "Electricity",
+      "file_name": "Jun2026.csv"
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "dataset_name": "Electricity",
+      "file_name": "Jun2026.csv",
+      "status": "SCHEMA_CHANGE_DETECTED",
+      "extra_columns_in_file": [
+        {
+          "name": "Region",
+          "data_type": "STRING"
+        }
+      ],
+      "missing_columns_in_file": [],
+      "data_type_changes": [
+        {
+          "name": "Units",
+          "approved_data_type": "INTEGER",
+          "current_data_type": "DECIMAL"
+        }
+      ]
+    }
+  ],
   "summary": {
     "files_checked": 1,
-    "files_with_changes": 0,
-    "extra_column_count": 0,
+    "files_with_changes": 1,
+    "extra_column_count": 1,
     "missing_column_count": 0,
-    "data_type_change_count": 0
+    "data_type_change_count": 1
   }
 }

@@ -1,11 +1,12 @@
 {
-  "action": "NO_ACTION",
-  "human_approval": false,
-  "reason": "No new datasets, files, or schema changes were detected.",
+  "action": "REVIEW_SCHEMA_CHANGE",
+  "human_approval": true,
+  "reason": "A schema change was detected, so the change should be reviewed manually.",
   "summary": {
     "new_dataset_count": 0,
-    "new_file_count": 0,
+    "new_file_count": 1,
     "modified_file_count": 0,
-    "schema_change_count": 0
+    "deleted_file_count": 0,
+    "schema_change_count": 1
   }
 }
